@@ -1,4 +1,4 @@
-# roubank-css
+# GE
 
 Este projeto tem como objetivo implementar progressivamente e de forma didática uma aplicação web inspirada no site GE da Globo.
 
